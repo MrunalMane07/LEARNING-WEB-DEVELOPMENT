@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+    font-family: 'Luxurious Script', cursive;
+    background-color: #5656d3;
+    background: linear-gradient(#5656d3 0%, #f5f5f5 100%);
+}
+img
+{
+    width: 370px;
+    border-radius: 50%;
+}
+.luxurious-script-regular {
+  font-family: "Luxurious Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
